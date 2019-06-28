@@ -1,0 +1,1 @@
+(defmacro (and a b) (list 'if a b nil))
